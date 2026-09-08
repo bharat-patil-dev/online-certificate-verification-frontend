@@ -31,7 +31,7 @@ import VerifyCertificate from "./pages/public/VerifyCertificate";
 import NotFound from "./pages/NotFound";
 import ProtectedRoute from "./components/RouteProtected";
 
-import InstitutionSettings from "./pages/Institution/InstitutionSettings";
+import InstitutionSettings from "./pages/institution/InstitutionSettings";
 import AdminSettings from "./pages/admin/AdminSettings";
 
 function App() {
